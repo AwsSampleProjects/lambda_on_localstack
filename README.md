@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/5d828009-e3a0-4133-b634-388208f2b36d)
+
 # Manual
 
 ### Install SAM CLI
